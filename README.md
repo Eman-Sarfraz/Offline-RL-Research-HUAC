@@ -76,7 +76,7 @@ After running the training script, the model compares the learned HUAC policy ag
 ## 📝 Citation
 
 
-> Yasin, A., Sarfraz, E., & Rehman, A. (2026). *Advancing Data-Driven Policy Learning with Optimized Offline Reinforcement Learning: A Comprehensive Framework for Uncertainty-Aware Regularization with Adaptive Conservatism.*
+>  Sarfraz, E.,Yasin, A., & Rehman, A. (2026). *Advancing Data-Driven Policy Learning with Optimized Offline Reinforcement Learning: A Comprehensive Framework for Uncertainty-Aware Regularization with Adaptive Conservatism.*
 
 ---
 
